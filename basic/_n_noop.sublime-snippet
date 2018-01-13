@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+_n_noop( '${1:%s post}', '${2:%s posts'}, '${3:text-domain}' );
+]]></content>
+	<description>Register plural don't translate</description>
+	<tabTrigger>wpi18_n_noop</tabTrigger>
+</snippet>

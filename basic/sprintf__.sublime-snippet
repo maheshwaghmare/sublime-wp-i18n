@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+sprintf( __( '${1:You have chosen the %1\$s theme.}', '${2:text-domain}' ), ${3:\$color} );
+]]></content>
+	<description>Translate with sprintf for __</description>
+	<tabTrigger>wpi18_sprintf__</tabTrigger>
+</snippet>

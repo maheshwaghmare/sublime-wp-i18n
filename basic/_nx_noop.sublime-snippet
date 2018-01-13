@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+_nx_noop( '${1:%s post}', '${2:%s posts'}, '${3:Description of translation string.}', '${4:text-domain}' );
+]]></content>
+	<description>Register plural with context don't translate</description>
+	<tabTrigger>wpi18_nx_noop</tabTrigger>
+</snippet>

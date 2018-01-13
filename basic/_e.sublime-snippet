@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+_e( '${1:Hello.}', '${2:text-domain}' );
+]]></content>
+	<description>Translate and echo string</description>
+	<tabTrigger>wpi18_e</tabTrigger>
+</snippet>

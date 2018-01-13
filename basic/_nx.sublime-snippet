@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+_nx( '${1:%s Comment}', '${2:%s Comments}', ${3:get_comments_number()}, '${4:Description of translation string.}', '${5:text-domain}' );
+]]></content>
+	<description>Translate for plural with context</description>
+	<tabTrigger>wpi18_nx</tabTrigger>
+</snippet>
